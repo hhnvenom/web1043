@@ -1,0 +1,1 @@
+// javascipt for lab1
